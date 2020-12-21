@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon_x5F_mobile_x5F_nav" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 36 25" style="enable-background:new 0 0 36 25;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<g id="burger-magnifier" transform="translate(17.000000, 24.000000)">
+	<path id="Combined-Shape" class="st0" d="M14.4-24c0.3,0,0.6,0.3,0.6,0.6v0.8c0,0.3-0.3,0.6-0.6,0.6h-30.8c-0.3,0-0.6-0.3-0.6-0.6
+		v-0.8c0-0.3,0.3-0.6,0.6-0.6H14.4z"/>
+	<path id="Combined-Shape_1_" class="st0" d="M-3.8-13l-12.6,0c-0.3,0-0.6-0.3-0.6-0.6v-0.8c0-0.3,0.3-0.6,0.6-0.6l13.1,0
+		C-3.5-14.4-3.7-13.7-3.8-13z"/>
+	<path id="Combined-Shape_2_" class="st0" d="M-2.2-5l-14.2,0C-16.7-5-17-5.3-17-5.6v-0.8c0-0.3,0.3-0.6,0.6-0.6l13.1,0
+		C-3-6.3-2.6-5.6-2.2-5z"/>
+	<g id="icon-_x2F_-icon-search" transform="translate(16.000000, 5.000000)">
+		<path id="magnifier" class="st0" d="M-5.8-23.4c3,1.3,5,4.2,5,7.5c0,1.9-0.7,3.7-1.8,5.1l4.9,4.9c0.4,0.4,0.4,0.9,0,1.3
+			C2-4.3,1.4-4.3,1.1-4.6l0,0l-4.9-4.9c-1.4,1.1-3.1,1.8-5,1.8c-3.3,0-6.3-2-7.5-5s-0.6-6.5,1.7-8.9S-8.8-24.6-5.8-23.4z M-8.8-22.4
+			c-2.7,0-5.1,1.6-6.1,4s-0.5,5.3,1.4,7.2s4.7,2.5,7.2,1.4s4.1-3.4,4.1-6.1C-2.3-19.5-5.2-22.4-8.8-22.4z"/>
+	</g>
+</g>
+</svg>
